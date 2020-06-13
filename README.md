@@ -1,2 +1,2 @@
-# REAL_T-ME_MASK_DETECT-ON
+# REAL_TIME_MASK_DETECTION
 Real time mask detection with OpenCV, Keras Libraries
